@@ -3,7 +3,7 @@ const players = [
         name: "Rodrygo Goes",
         team: "Real Madrid",
         nationality: "Brazil",
-        jerseyNumber: 23,
+        jerseyNumber: 11,
         age: "24 years",
         imageUrl: "https://cdn.vox-cdn.com/thumbor/IHUeDWzFBACnx-qSA48cx6YPais=/0x0:4589x3060/920x613/filters:focal(2394x133:3128x867):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/72628259/1653679591.0.jpg",
     },
